@@ -2,8 +2,6 @@
 Links to my Tableau Dashboards & visualizations. Mostly derived from my assiting RA work and minor projects.
 Tableau Public Profile: https://public.tableau.com/app/profile/myunggong.seo/vizzes
 
-# Tableau Dashboards
-
 ## Real Estate Dashboard
 
 [![WP Health Data Visualization](TableauWorks/Dashboard 1.png)]
