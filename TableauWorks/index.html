@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Real Estate Dashboard</title>
+</head>
+
+<body>
+
+<h1>Real Estate Price Dashboard</h1>
+
+<div class='tableauPlaceholder'>
+<object class='tableauViz' style='display:none;'>
+
+<param name='host_url'
+value='https%3A%2F%2Fpublic.tableau.com%2F' />
+
+<param name='name'
+value='YOUR_DASHBOARD_NAME/Sheet1' />
+
+<param name='tabs'
+value='no' />
+
+<param name='toolbar'
+value='yes' />
+
+</object>
+</div>
+
+<script
+src='https://public.tableau.com/javascripts/api/tableau-2.min.js'>
+</script>
+
+<script>
+
+var divElement =
+document.getElementsByClassName('tableauPlaceholder')[0];
+
+var vizElement =
+divElement.getElementsByTagName('object')[0];
+
+vizElement.style.width='100%';
+vizElement.style.height='800px';
+
+new tableau.Viz(
+divElement,
+vizElement
+);
+
+</script>
+
+</body>
+</html>
