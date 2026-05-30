@@ -4,7 +4,7 @@ Tableau Public Profile: https://public.tableau.com/app/profile/myunggong.seo/viz
 
 ## Real Estate Dashboard
 
-[![WP Health Data Visualization](TableauWorks/Dashboard 1.png)]
+[![WP Health Data Visualization](TableauWorks/Dashboard1.png)]
 (https://public.tableau.com/views/YOUR_REAL_ESTATE_DASHBOARD)
 
 Interactive Dashboard:
