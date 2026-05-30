@@ -1,52 +1,72 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-    <title>Real Estate Dashboard</title>
+    <title>SIPRI Arms Dashboard</title>
 </head>
 
 <body>
 
-<h1>Real Estate Price Dashboard</h1>
+<h1>SIPRI Arms Industry Dashboard</h1>
 
-<div class='tableauPlaceholder'>
+<!-- Paste Tableau Code Below -->
+
+<div class='tableauPlaceholder' id='viz1780171806928'
+style='position: relative'>
+
+<noscript>
+<a href='#'>
+<img alt='SIPRI Arms Industry Database'
+src='https://public.tableau.com/static/images/Bo/Book1_17304956612760/Dashboard1/1_rss.png'
+style='border:none'/>
+</a>
+</noscript>
+
 <object class='tableauViz' style='display:none;'>
 
 <param name='host_url'
-value='https%3A%2F%2Fpublic.tableau.com%2F' />
+value='https%3A%2F%2Fpublic.tableau.com%2F'/>
+
+<param name='embed_code_version'
+value='3'/>
 
 <param name='name'
-value='YOUR_DASHBOARD_NAME/Sheet1' />
+value='Book1_17304956612760/Dashboard1'/>
 
 <param name='tabs'
-value='no' />
+value='no'/>
 
 <param name='toolbar'
-value='yes' />
+value='yes'/>
 
 </object>
+
 </div>
 
-<script
-src='https://public.tableau.com/javascripts/api/tableau-2.min.js'>
-</script>
-
-<script>
+<script type='text/javascript'>
 
 var divElement =
-document.getElementsByClassName('tableauPlaceholder')[0];
+document.getElementById('viz1780171806928');
 
 var vizElement =
 divElement.getElementsByTagName('object')[0];
 
 vizElement.style.width='100%';
-vizElement.style.height='800px';
+vizElement.style.height='850px';
 
-new tableau.Viz(
-divElement,
+var scriptElement =
+document.createElement('script');
+
+scriptElement.src =
+'https://public.tableau.com/javascripts/api/viz_v1.js';
+
+vizElement.parentNode.insertBefore(
+scriptElement,
 vizElement
 );
 
 </script>
 
 </body>
+
 </html>
