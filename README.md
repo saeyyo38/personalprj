@@ -1,2 +1,2 @@
 ## personalprj
-Compilation of personal projects and some data visualizations in Tableau.
+Compilation of personal projects. Each Folder contains one project.
