@@ -6,7 +6,7 @@ Tableau Public Profile: https://public.tableau.com/app/profile/myunggong.seo/viz
 
 ## SIPRI Arms Industry Dashboard
 
-[![SIPRI Arms Industry Dashboard](TableauWorks/sipri_dashboard.png)](https://public.tableau.com/views/SIPRIcompanybreakdown/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![SIPRI Arms Industry Dashboard](sipri_dashboard.png)](https://public.tableau.com/views/SIPRIcompanybreakdown/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Interactive Dashboard:
 
@@ -17,7 +17,7 @@ https://public.tableau.com/views/SIPRIcompanybreakdown/Dashboard2?:language=en-U
 
 ## VAFSS Visuals Dashboard
 
-[![VAFSS Visuals Dashboard](TableauWorks/vafss_dashboard.png)](https://public.tableau.com/views/vafsspricesdata/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![VAFSS Visuals Dashboard](vafss_dashboard.png)](https://public.tableau.com/views/vafsspricesdata/Sheet2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Interactive Dashboard:
 
@@ -28,7 +28,7 @@ https://public.tableau.com/views/vafsspricesdata/Sheet2?:language=en-US&:sid=&:r
 
 ## WP Public Health Data Visualization
 
-[![WP Public Health Dashboard](TableauWorks/wp_public_health_dashboard.png)](https://public.tableau.com/views/WPPublicHealthDataVisualization/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![WP Public Health Dashboard](wp_public_health_dashboard.png)](https://public.tableau.com/views/WPPublicHealthDataVisualization/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Interactive Dashboard:
 
